@@ -33,5 +33,5 @@ THEN I am able to successfully create, update, and delete data in my database`
 * Initialize the application's server by running `node server.js`
 
 ## Walkthrough / Demo
-Part One: https://drive.google.com/file/d/1dC_1_tywIO83P9BG06O3wcdl-S7t5L1V/view
+Part One: https://drive.google.com/file/d/1dC_1_tywIO83P9BG06O3wcdl-S7t5L1V/view <br/>
 Part Two: https://drive.google.com/file/d/1c6Ju_Vhk8ei_HZhFSvBCkeklb7818-Ua/view
